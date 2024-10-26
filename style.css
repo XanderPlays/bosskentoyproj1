@@ -1,0 +1,31 @@
+body {
+    padding:20px;
+    background-image: url(./image/Tio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h2 {
+       color:yellow;
+       text-align: center;
+}
+
+label{
+       color:gray;
+       font-weight: bold;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: black;        
+   
+
+}    
+.error {
+       color: red;
+       background-color: black;
+
+}
